@@ -1,0 +1,31 @@
+body {
+    background-image: linear-gradient(rgb(235, 226, 226), white, #fad8b1);
+}
+header {
+    background-color: rgb(235, 226, 226);
+}
+.awal a{
+    position: absolute; 
+    width: 13%; 
+    height: 8%; 
+    margin-left: 8%;
+    margin-top: 28%;
+    text-align: center;
+}
+
+.utama {
+    margin-top: 11%;
+    margin-left: 20%;
+    margin-bottom: 10%;
+}
+
+.utama h5 {
+    margin-top: 5%;
+}
+
+.utama a:hover {
+    background-color: #A00002;
+    transition: .5s ease-in-out;
+    transition-delay: .3s;
+}
+

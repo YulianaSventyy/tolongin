@@ -1,0 +1,40 @@
+/*hibar*/
+
+.content1 button {
+    position: absolute; width: 8%; height: 6%; margin-left: 75% ; margin-top: 1%;
+    text-align: center;
+}
+
+.content1 {
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+.content1 input {
+    margin-bottom: 1%;
+}
+
+.card-body{
+    width: 50%; 
+    height: 60%;
+    margin-top: 1%;
+    margin-left: 15%;
+    margin-bottom: 8%;
+}
+
+.card img{
+    width: 11%;
+    margin-top: 6%;
+    margin-left: 45%;
+}
+
+.card button{
+    width: 10%;
+    height: 12%;
+    margin-top: 1%;
+    margin-left: 29%;
+}
+
+.hibar label{
+    margin-top: 8%;
+}
